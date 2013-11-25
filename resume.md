@@ -15,42 +15,6 @@ EDUCATION
     -   Last two years GPA: 3.9/4.0
 
 
-INVITED TALKS
--------------
-
-*   **Cleansing and analysis of folksonomy in Douban**
-
-    -   [Sixth useR China conference in Shanghai, Nov. 2013](http://hetong007.github.io/Douban_Folksonomy/)
-
-*   **Ensemble model in machine learning**
-
-    -   First R Salon in Guangzhou, Jun. 2013
-
-
-PUBLICATION
------------
-
-*   **Augmenting LASSO Regression with Decision Tree for Identifying the Correlation of Genetic Polymorphism and Adverse Events**
-
-    -   Accepted as regular paper by BIBM 2013
-
-*   **Introductory Statistics with R** in Chinese
-
-    -   One of the translators of the Chinese version, originated by Peter Dalgaard
-
-
-RESEARCH PROJECT
-----------------
-
-*   **Single feature polymorphisms gene detection based on Bayes model**
-
-    -   Undergraduate thesis rated as the top level.
-    
-*   **Microarray Data with shrinked MANOVA statistic, analysed based on FDR**
-
-    -   Borrow technics from *Large Scale Inference* by Bradley Efron
-
-
 WORK EXPERIENCE
 ---------------
 
@@ -77,6 +41,43 @@ WORK EXPERIENCE
 
     AP test Teacher, Guangzhou, China, 2011
     -   Teach AP Computer and AP Statistics to high school students
+
+
+PUBLICATION
+-----------
+
+*   **Augmenting LASSO Regression with Decision Tree for Identifying the Correlation of Genetic Polymorphism and Adverse Events**
+
+    -   Accepted as regular paper by BIBM 2013
+
+*   **Introductory Statistics with R** in Chinese
+
+    -   One of the translators of the Chinese version, originated by Peter Dalgaard
+
+
+INVITED TALKS
+-------------
+
+*   **Cleansing and analysis of folksonomy in Douban**
+
+    -   [Sixth useR China conference in Shanghai, Nov. 2013](http://hetong007.github.io/Douban_Folksonomy/)
+
+*   **Ensemble model in machine learning**
+
+    -   First R Salon in Guangzhou, Jun. 2013
+
+
+RESEARCH PROJECT
+----------------
+
+*   **Single feature polymorphisms gene detection based on Bayes model**
+
+    -   Undergraduate thesis rated as the top level.
+    
+*   **Microarray Data with shrinked MANOVA statistic, analysed based on FDR**
+
+    -   Borrow technics from *Large Scale Inference* by Bradley Efron
+
 
 AWARD
 -----

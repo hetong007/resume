@@ -14,50 +14,17 @@ EDUCATION
     -   Overall GPA: 3.6/4.0
     -   Last two years GPA: 3.9/4.0
 
-AWARD
------
 
-*   **KDD CUP**, 2013
-    
-    -   Ended up with top 20% in track 1
+INVITED TALKS
+-------------
 
-*   **ACM/ICPC**, 2012
-    
-    -   Second prize in SYSU campus
-    -   Third prize in Guangdong province
+*   **Cleansing and analysis of folksonomy in Douban**
 
-*   **Individual Study Scholarship**, 2012
+    -   [Sixth useR China conference in Shanghai, Nov. 2013](http://hetong007.github.io/Douban_Folksonomy/)
 
-    -   Dedicate to those excellent in research and study
-    
-*   **National Mathematical Modeling Competition**, 2011
+*   **Ensemble model in machine learning**
 
-    -   Third prize in Guangdong province
-
-INTERN EXPERIENCE
----------------
-
-*   **[Douban](http://www.douban.com/)**
-
-    Algorithm Engineer , Beijing, China, 2013
-    -   Predict user gender and income level 
-        via user preference data
-        with the precision higher than 95%
-    -   Clean and structurize folksonomy data
-    -   Natural language processing jobs involving Chinese word splitting
-
-
-*   **Giordano** 
-
-    Buisness Analyst, Guangzhou, China, 2013
-    -   Analyse relationship among variables and report in slides,
-        i.e. weather, temperature, storage, discount, and sales volume.
-
-
-*   **Industrial and Commercial Bank of China**
-
-    Data Analyst, Guangzhou, China, 2012
-    -   Data organizing and formalization for enterprises
+    -   First R Salon in Guangzhou, Jun. 2013
 
 
 PUBLICATION
@@ -77,23 +44,59 @@ RESEARCH PROJECT
 
 *   **Single feature polymorphisms gene detection based on Bayes model**
 
-    -   My undergraduate thesis. Rated as the top level.
+    -   Undergraduate thesis rated as the top level.
     
 *   **Microarray Data with shrinked MANOVA statistic, analysed based on FDR**
 
     -   Borrow technics from *Large Scale Inference* by Bradley Efron
 
 
-INVITED TALKS
--------------
+WORK EXPERIENCE
+---------------
 
-*   **Cleansing and analyse folksonomy in Douban**
+*   **[Douban](http://www.douban.com/)**
 
-    -   [Sixth useR China conference in Shanghai, Nov. 2013](http://hetong007.github.io/Douban_Folksonomy/)
+    Algorithm Engineer Intern, Beijing, China, 2013
+    -   Predict user gender and income level 
+        via user preference data
+        with the precision higher than 95%
+    -   Clean and structurize folksonomy data
+    -   Natural language processing involving Chinese word splitting
 
-*   **Ensemble model in machine learning**
+*   **Giordano** 
 
-    -   First R Salon in Guangzhou, Jun. 2013
+    Buisness Analyst Intern, Guangzhou, China, 2013
+    -   Mine influencial factors associated with sales trends
+
+*   **Industrial and Commercial Bank of China**
+
+    Data Analyst Intern, Guangzhou, China, 2012
+    -   Organize and formalize financial data for enterprises
+
+*   **At Home Academy**
+
+    AP test Teacher, Guangzhou, China, 2011
+    -   Teach AP Computer and AP Statistics to high school students
+
+AWARD
+-----
+
+*   **KDD CUP**, 2013
+    
+    -   Top 20% in track 1
+
+*   **ACM/ICPC**, 2012
+    
+    -   Third prize in Guangdong province
+    -   Second prize in SYSU campus
+
+*   **Individual Study Scholarship**, 2012
+
+    -   Dedicate to those excellent in research and study
+    
+*   **National Mathematical Modeling Competition**, 2011
+
+    -   Third prize in Guangdong province
 
 
 PROGRAMMING LANGUAGE

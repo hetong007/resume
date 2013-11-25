@@ -1,10 +1,8 @@
 Tong He
 ===============
 
-
 (+86)13051031037
 hetong007@gmail.com
-
 
 EDUCATION
 ---------

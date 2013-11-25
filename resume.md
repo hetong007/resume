@@ -42,7 +42,7 @@ INTERN EXPERIENCE
     Algorithm Engineer , Beijing, China, 2013
     -   Predict user gender and income level 
         via user preference data
-        with the precision high than 95%
+        with the precision higher than 95%
     -   Clean and structurize folksonomy data
     -   Natural language processing jobs involving Chinese word splitting
 

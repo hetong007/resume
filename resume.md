@@ -1,8 +1,10 @@
 Tong He
 ===============
 
+
 (+86)13051031037
 hetong007@gmail.com
+
 
 EDUCATION
 ---------
@@ -23,8 +25,8 @@ AWARD
 
 *   **ACM/ICPC**, 2012
     
-    -   2nd prize in SYSU campus
-    -   3rd prize in Guangdong province
+    -   Second prize in SYSU campus
+    -   Third prize in Guangdong province
 
 *   **Individual Study Scholarship**, 2012
 
@@ -59,6 +61,7 @@ INTERN EXPERIENCE
     Data Analyst, Guangzhou, China, 2012
     -   Data organizing and formalization for enterprises
 
+
 PUBLICATION
 -----------
 
@@ -82,6 +85,7 @@ RESEARCH PROJECT
 
     -   Borrow technics from *Large Scale Inference* by Bradley Efron
 
+
 INVITED TALKS
 -------------
 
@@ -92,7 +96,8 @@ INVITED TALKS
 *   **Ensemble model in machine learning**
 
     -   First R Salon in Guangzhou, Jun. 2013
-    
+
+
 PROGRAMMING LANGUAGE
 --------------------
 
@@ -103,14 +108,16 @@ PROGRAMMING LANGUAGE
 *   **C/C++**
 
     -   Experience with ACM/ICPC in college and Olympiad in Informatics in high school
-    
+
+
 ENGLISH PROFICIENCY
 -------------------
 
 *   **TOEFL** : 102
 
 *   **GRE** : 321
-    
+
+
 EXTRACURRICULAR ACTIVITIES
 --------------------------
 
@@ -120,5 +127,5 @@ EXTRACURRICULAR ACTIVITIES
 
 *   **Chorus of Sun Yat-Sen University**
 
-    -   Leader of Tenor
+    -   Tenor section leader
 

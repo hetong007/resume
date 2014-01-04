@@ -111,7 +111,9 @@ PROGRAMMING LANGUAGE
 
 *   **R**
 
-    -   Seasoned R user, having a project [*R for Codejam*](https://github.com/hetong007/r4codejam) aiming to implement classical algorithms in R
+    -   Seasoned R user
+    -   A package [rLTP](https://github.com/hetong007/rLTP) as the interface between R and the ltp cloud service which is a tool for Natural Language Processing in Chinese.
+    -   Having a project [*R for Codejam*](https://github.com/hetong007/r4codejam) aiming to implement classical algorithms in R
     
 *   **C/C++**
 

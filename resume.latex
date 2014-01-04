@@ -1,0 +1,273 @@
+\documentclass[]{article}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \usepackage{fontspec}
+  \ifxetex
+    \usepackage{xltxtra,xunicode}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=false,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\section{Tong He}
+
+(+86)13051031037 hetong007@gmail.com
+
+\subsection{EDUCATION}
+
+\begin{itemize}
+\item
+  \textbf{Sun Yat-Sen(Zhongshan) University}
+
+  B.S. in Statistics, Sep. 2009 - Jun. 2013
+
+  \begin{itemize}
+  \item
+    Overall GPA: 3.6/4.0
+  \item
+    Last two years GPA: 3.9/4.0
+  \end{itemize}
+\end{itemize}
+\subsection{PUBLICATION}
+
+\begin{itemize}
+\item
+  \textbf{Augmenting LASSO Regression with Decision Tree for Identifying
+  the Correlation of Genetic Polymorphism and Adverse Events}
+
+  \begin{itemize}
+  \item
+    Accepted as regular paper by BIBM 2013
+  \end{itemize}
+\item
+  \textbf{Introductory Statistics with R} in Chinese
+
+  \begin{itemize}
+  \item
+    One of the translators of the Chinese version, originated by Peter
+    Dalgaard
+  \end{itemize}
+\end{itemize}
+\subsection{RESEARCH PROJECT}
+
+\begin{itemize}
+\item
+  \textbf{Single feature polymorphisms gene detection based on Bayes
+  model}
+
+  \begin{itemize}
+  \item
+    The basic idea for this project is dealing with small samples,
+    modelling with hierachical Bayes model, and computing result via EM
+    algorithm
+  \item
+    Undergraduate thesis, rated as the top level.
+  \end{itemize}
+\item
+  \textbf{Microarray Data with shrinked MANOVA statistic, analysed based
+  on FDR}
+
+  \begin{itemize}
+  \item
+    Combining MANOVA statistics and shrinked statistic to accurately
+    estimate false discovery rate
+  \item
+    Borrow technics from \emph{Large Scale Inference} by Bradley Efron
+  \end{itemize}
+\end{itemize}
+\subsection{WORK EXPERIENCE}
+
+\begin{itemize}
+\item
+  \textbf{\href{http://www.douban.com/}{Douban}}
+
+  Algorithm Engineer Intern, Beijing, China, 2013
+  \begin{itemize}
+  \item
+    \href{http://www.douban.com}{Douban.com} is a famous SNS website in
+    China with the largest database of Music, Books, Movies, etc.
+  \item
+    Predict user gender and income level via preference data on books,
+    movies and groups, with the final precision higher than 95\%
+  \item
+    Clean and structurize folksonomy data of Movies, the procedure
+    becomes the standard in Douban
+  \item
+    Natural language processing involving Chinese word splitting, and
+    construct an internal word dictionary of Douban
+  \end{itemize}
+\item
+  \textbf{Giordano}
+
+  Buisness Analyst Intern, Guangzhou, China, 2013
+  \begin{itemize}
+  \item
+    Mine influencial factors associated with sales trends
+  \item
+    For instance, how is season, temperature, city, weather and holiday
+    influence the performance of stores in an area.
+  \end{itemize}
+\item
+  \textbf{Industrial and Commercial Bank of China}
+
+  Data Analyst Intern, Guangzhou, China, 2012
+  \begin{itemize}
+  \item
+    Organize and formalize financial data for enterprises
+  \end{itemize}
+\item
+  \textbf{At Home Academy}
+
+  AP test Teacher, Guangzhou, China, 2011
+  \begin{itemize}
+  \item
+    Teach AP Computer and AP Statistics to high school students, explain
+    basic topics in statistics and java
+  \item
+    Assign homeworks and projects related to real world problems, help
+    them prepare for the AP test
+  \item
+    All students got at least 4/5 in the final test
+  \end{itemize}
+\end{itemize}
+\subsection{INVITED TALKS}
+
+\begin{itemize}
+\item
+  \textbf{Cleansing and analysis of folksonomy in Douban}
+
+  \begin{itemize}
+  \item
+    A presentation on my analysis procedure, which was developed as an
+    intern in douban, of folksonomy data
+  \item
+    Read it Online :
+    \href{http://hetong007.github.io/Douban\_Folksonomy/}{Sixth useR
+    China conference in Shanghai, Nov. 2013}
+  \end{itemize}
+\item
+  \textbf{Ensemble model in machine learning}
+
+  \begin{itemize}
+  \item
+    An introductory presentation on Caruana et al. \emph{Ensemble
+    Selection from Libraries of Models} and its variation
+  \item
+    First R Salon in Guangzhou, Jun. 2013
+  \end{itemize}
+\end{itemize}
+\subsection{AWARD}
+
+\begin{itemize}
+\item
+  \textbf{KDD CUP}, 2013
+
+  \begin{itemize}
+  \item
+    Top 20\% in track 1
+  \end{itemize}
+\item
+  \textbf{ACM/ICPC}, 2012
+
+  \begin{itemize}
+  \item
+    Third prize in Guangdong province
+  \item
+    Second prize in SYSU campus
+  \end{itemize}
+\item
+  \textbf{Individual Study Scholarship}, 2012
+
+  \begin{itemize}
+  \item
+    Dedicate to those excellent in research and study
+  \end{itemize}
+\item
+  \textbf{National Mathematical Modeling Competition}, 2011
+
+  \begin{itemize}
+  \item
+    Third prize in Guangdong province
+  \end{itemize}
+\end{itemize}
+\subsection{PROGRAMMING LANGUAGE}
+
+\begin{itemize}
+\item
+  \textbf{R}
+
+  \begin{itemize}
+  \item
+    Seasoned R user, having a project
+    \href{https://github.com/hetong007/r4codejam}{\emph{R for Codejam}}
+    aiming to implement classical algorithms in R
+  \end{itemize}
+\item
+  \textbf{C/C++}
+
+  \begin{itemize}
+  \item
+    Experience with ACM/ICPC in college and Olympiad in Informatics in
+    high school
+  \end{itemize}
+\end{itemize}
+\subsection{ENGLISH PROFICIENCY}
+
+\begin{itemize}
+\item
+  \textbf{TOEFL} : 102
+\item
+  \textbf{GRE} : 321
+\end{itemize}
+\subsection{EXTRACURRICULAR ACTIVITIES}
+
+\begin{itemize}
+\item
+  \textbf{Volley ball team of Mathematical School}
+
+  \begin{itemize}
+  \item
+    Team Leader
+  \end{itemize}
+\item
+  \textbf{Chorus of Sun Yat-Sen University}
+
+  \begin{itemize}
+  \item
+    Tenor section leader
+  \end{itemize}
+\end{itemize}
+
+\end{document}
